@@ -4,6 +4,7 @@
 This repository contains a full end-to-end analysis and executive report for an e-commerce dataset (Olist). The work includes data cleaning, feature engineering, exploratory data analysis, customer segmentation, review sentiment analysis, and an executive summary.
 
 ## Files
+- Dataset -> [https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce]
 - `orders_full_clean.csv` — cleaned order-level data (exports)
 - `customers_summary.csv` — customer-level aggregated metrics
 - `customer_rfm_segments.csv` — RFM segmentation results
