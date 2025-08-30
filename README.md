@@ -25,5 +25,4 @@ This repository contains a full end-to-end analysis and executive report for an 
 - Categories A,B,C drive most sales; category D has longest average delivery.
 - Sentiment from reviews is mostly neutral-positive; negative sentiment clusters around shipping delays.
 
-## Author
-Mostafa Arafa — Data Analyst
+
